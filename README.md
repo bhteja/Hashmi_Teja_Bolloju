@@ -1,6 +1,6 @@
 # Hi... I am Hashmi Teja Bolloju
 
-### I'm Python and PHP Developer and currently working as Team Lead
+### Working as Python and PHP developer
 
 ## Skills
 
