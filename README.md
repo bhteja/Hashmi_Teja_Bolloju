@@ -8,6 +8,14 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### ![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-yellowgreen?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Rekognition](https://img.shields.io/badge/AWS-Rekognition-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS-API_Gateway-blue?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS-SNS-brightgreen?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS-SQS-lightgrey?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ### Frontend 
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
